@@ -3,7 +3,7 @@
 <h2> :fire: Features</h2>
 
 - Good Accuracy
-
+- Online Machine Learning Algorithm
 ## :bulb: Built Using
 
 - [**Python**](https://www.python.org/)
