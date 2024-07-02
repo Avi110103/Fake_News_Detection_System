@@ -4,9 +4,12 @@
 
 - Good Accuracy
 - Online Machine Learning Algorithm
-## :bulb: Built Using
+- Nice User Interface
+## :bulb: Resources Used 
 
-- [**Python**](https://www.python.org/)
+- M.L Algorithm like Passive Aggressive Classifiers
+- [**Python**](https://www.python.org/) and its Libraries
+- HTML,CSS 
 
 ## Instructions to run
 
@@ -20,8 +23,9 @@
 
 ## 🔥Result
 
-<img src="/Fake_News_Detection_System/images/Result.png"/>
 <img src="/Fake_News_Detection_System/images/Result2.png"/>
+<img src="/Fake_News_Detection_System/images/Result.png"/>
+
 
 ## Contributing
 
