@@ -17,7 +17,7 @@
 
 2. ```pip install -r requirements.txt ```  to install all the dependencies
  
-3. ```Fake_News_Detection_System.ipynb```
+3. Run ```Fake_News_Det.py``` file
 
 4. _now your app is up and running_
 
